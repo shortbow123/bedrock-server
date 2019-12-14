@@ -5,7 +5,7 @@ LABEL description="The MineCraft Bedrock Server"
 LABEL maintainer="@IMetZach"
 
 ENV NAME Bedrock-Server
-ENV arc=bedrock-server-1.13.3.0.zip
+ENV arc=bedrock-server-1.14.0.9.zip
 ENV dlarc=https://minecraft.azureedge.net/bin-linux/${arc}
 
 WORKDIR /opt/minecraft
